@@ -93,7 +93,7 @@ def startbtn():
         for a in datas:
             dbdb = str(datas[a])
             url = 'https://naveropenapi.apigw.ntruss.com/nmt/v1/translation'
-            dataaa = "source=en&target=ko&text="+ dbdb
+            dataaa = "source=ko&target=en&text="+ dbdb
             
             request =urllib.request.Request(url)
             request.add_header ( 'X-NCP-APIGW-API-KEY-ID',clientid)
