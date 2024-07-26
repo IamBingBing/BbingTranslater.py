@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: B.bingTranslater
+Version: 0.1
+Summary: translate yaml value eng to kor 
+Home-page: https://github.com/iambingbing
+Author: lee jongwon
+Author-email: 03lonnie@naver.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: do not sell this program then do whatever you want with it
+Requires-Dist: tk>=0.0.0
+Requires-Dist: pyyaml>=0.0.0
+Requires-Dist: requests>=0.0.0
+Requires-Dist: pip>=0.0.0

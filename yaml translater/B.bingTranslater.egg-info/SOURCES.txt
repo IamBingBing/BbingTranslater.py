@@ -1,0 +1,6 @@
+setup.py
+B.bingTranslater.egg-info/PKG-INFO
+B.bingTranslater.egg-info/SOURCES.txt
+B.bingTranslater.egg-info/dependency_links.txt
+B.bingTranslater.egg-info/requires.txt
+B.bingTranslater.egg-info/top_level.txt
